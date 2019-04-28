@@ -1,0 +1,11 @@
+P->S
+S->ifBthenQ 
+S->ifBthenQelseQ
+S->whileBdoS
+B->E<E
+B->E>E
+E->E+E
+E->E-E
+E->id
+Q->id=E;
+P->id=E;

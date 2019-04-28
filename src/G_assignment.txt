@@ -1,0 +1,5 @@
+S->id=E;
+E->E+E
+E->E*E
+E->(E)
+E->id
